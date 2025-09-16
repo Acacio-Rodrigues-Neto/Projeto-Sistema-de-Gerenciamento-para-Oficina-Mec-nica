@@ -86,6 +86,6 @@ ORDER BY total_hours DESC;
 ```
 .
 ├── README.md
-└── schema_oficina_full.sql
+└── projeto_oficina.sql
 ```
 
